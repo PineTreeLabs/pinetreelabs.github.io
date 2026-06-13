@@ -38,7 +38,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Download Hugo modules
-        run: hugo mod download
+        run: go mod download
 
       - name: Build
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
