@@ -1,0 +1,15 @@
+baseURL = "https://pinetreelabs.io/"
+title = "Pine Tree Labs"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+
+summaryLength = 0
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[pagination]
+  pagerSize = 10
