@@ -1,0 +1,17 @@
+locale = "en"
+label = "English"
+displayName = "EN"
+title = "Pine Tree Labs"
+weight = 1
+
+[params]
+  dateFormat = "2 January 2006"
+  description = "Physics modeling and control systems for hardware engineering."
+
+[params.author]
+  name = "Jared Callaham"
+  image = "img/avatar.jpg"
+  links = [
+    { email = "mailto:jared.callaham@gmail.com" },
+    { github = "https://github.com/jcallaham" },
+  ]

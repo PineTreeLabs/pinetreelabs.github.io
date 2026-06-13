@@ -1,0 +1,12 @@
+[goldmark.renderer]
+  unsafe = true
+
+[highlight]
+  noClasses = false
+  codeFences = true
+  lineNos = false
+  style = "github"
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 3
