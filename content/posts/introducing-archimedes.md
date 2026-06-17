@@ -2,7 +2,6 @@
 title: "Introducing Archimedes"
 date: 2025-10-09T03:30:30-04:00
 draft: false
-categories: ["blog"]
 tags: ["scientific-computing", "python"]
 showTableOfContents: true
 ---

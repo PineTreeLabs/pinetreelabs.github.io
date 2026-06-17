@@ -2,8 +2,7 @@
 title: "Custom autodiff part 3: forward mode"
 date: 2024-01-11T05:30:30-04:00
 draft: false
-categories: ["blog"]
-tags: ["automatic-differentiation", "machine-learning", "scientific-computing", "python"]
+tags: ["autodiff", "machine-learning", "scientific-computing", "python"]
 series: ["Custom Autodiff"]
 showTableOfContents: true
 ---

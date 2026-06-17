@@ -2,8 +2,7 @@
 title: "Differentiating through differential equations"
 date: 2024-09-04T05:30:30-04:00
 draft: false
-categories: ["blog"]
-tags: ["automatic-differentiation", "machine-learning", "scientific-computing", "python"]
+tags: ["autodiff", "machine-learning", "scientific-computing", "python"]
 showTableOfContents: true
 ---
 {{< katex >}}
