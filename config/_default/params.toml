@@ -28,3 +28,6 @@ enableCodeCopy = true
   showTableOfContents = true
   showTaxonomies = true
   showWordCount = false
+
+[list]
+  showTaxonomies = true

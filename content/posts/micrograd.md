@@ -2,7 +2,6 @@
 title: "Beefing up Micrograd"
 date: 2023-06-22T03:00:30-04:00
 draft: false
-categories: ["blog"]
 tags: ["python", "autodiff"]
 showTableOfContents: true
 ---
