@@ -3,7 +3,7 @@ title: "Pine Tree Labs"
 description: "Physics modeling and control systems for hardware engineering."
 ---
 
-I build physics modeling, simulation, and control systems for hardware engineering — from rocket engines to robotics to advanced manufacturing. I develop open-source tools like Archimedes and take a small number of consulting engagements each year.
+Modeling, simulation, optimization, and control systems
 
 {{< cardgrid >}}
 {{< card href="/archimedes" title="Archimedes" >}}Open-source Python framework for control systems engineering and hardware deployment.{{< /card >}}
