@@ -1,10 +1,6 @@
 ---
 title: "Writing"
-description: "Notes on physics modeling, control, and software."
+description: "Notes on physics modeling, control systems, automatic differentiation, and scientific computing."
 showDate: false
 showReadingTime: false
 ---
-
-{{< alert >}}
-🚧 Under construction.
-{{< /alert >}}
