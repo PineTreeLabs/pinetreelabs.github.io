@@ -1,6 +1,14 @@
 [goldmark.renderer]
   unsafe = true
 
+# Protect LaTeX math from the Markdown parser so it can be rendered
+# server-side by layouts/_markup/render-passthrough.html (transform.ToMath).
+[goldmark.extensions.passthrough]
+  enable = true
+  [goldmark.extensions.passthrough.delimiters]
+    block = [['$$', '$$'], ['\[', '\]']]
+    inline = [['$', '$'], ['\(', '\)']]
+
 [highlight]
   noClasses = false
   codeFences = true

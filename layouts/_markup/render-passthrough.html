@@ -1,0 +1,3 @@
+{{- /* Render passthrough math (KaTeX) at build time. Delimiters configured in markup.toml. */ -}}
+{{- $opts := dict "displayMode" (eq .Type "block") "throwOnError" false -}}
+{{- transform.ToMath .Inner $opts -}}
