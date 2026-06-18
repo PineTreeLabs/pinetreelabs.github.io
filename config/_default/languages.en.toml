@@ -12,6 +12,10 @@ weight = 1
   name = "Jared Callaham"
   image = "img/avatar.jpg"
   links = [
-    { email = "mailto:jared.callaham@gmail.com" },
+    # Personal email kept off the open web for now.
+    # TODO: revisit after the Cloudflare migration — set up a pinetreelabs.io forwarder.
+    # { email = "mailto:jared.callaham@gmail.com" },
+    { linkedin = "https://www.linkedin.com/in/jcallaham" },
+    { youtube = "https://youtube.com/@jcallaham" },
     { github = "https://github.com/jcallaham" },
   ]
